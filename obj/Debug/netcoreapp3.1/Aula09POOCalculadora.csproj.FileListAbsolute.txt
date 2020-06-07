@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\bin\Debug\netcoreapp3.1\Aula09POOCalculadora.exe
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\bin\Debug\netcoreapp3.1\Aula09POOCalculadora.deps.json
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\bin\Debug\netcoreapp3.1\Aula09POOCalculadora.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\bin\Debug\netcoreapp3.1\Aula09POOCalculadora.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\bin\Debug\netcoreapp3.1\Aula09POOCalculadora.dll
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\bin\Debug\netcoreapp3.1\Aula09POOCalculadora.pdb
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\obj\Debug\netcoreapp3.1\Aula09POOCalculadora.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\obj\Debug\netcoreapp3.1\Aula09POOCalculadora.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\obj\Debug\netcoreapp3.1\Aula09POOCalculadora.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\obj\Debug\netcoreapp3.1\Aula09POOCalculadora.dll
+C:\Users\Senai132\Desktop\Aula09POOCalculadora\obj\Debug\netcoreapp3.1\Aula09POOCalculadora.pdb
